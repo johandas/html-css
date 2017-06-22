@@ -7,6 +7,6 @@
   <title>Document</title>
 </head>
 <body>
-  Bonjour, bonne année <strong>2017</strong>, bonne santé et surtout : <em>Meilleurs vœux</em> !
+  <p>Bonjour, bonne année <strong>2017</strong>, bonne santé et surtout : <em>Meilleurs vœux</em> !</p>
 </body>
 </html>
